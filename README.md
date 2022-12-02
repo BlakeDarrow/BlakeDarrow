@@ -1,2 +1,1 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BlakeDarrow&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Blake Darrow's github stats" /></a></br>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlakeDarrow&layout=compact&theme=radical&hide_border=true&card_width=445" /></a>
